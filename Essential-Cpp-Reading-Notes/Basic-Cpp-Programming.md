@@ -15,7 +15,7 @@ int num(0);
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果对象需要多个初值（例如复数），普通的就没办法完成任务，使用构造函数初始化语法就可以完成了。  
 
 >#### const
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;被定义为const的对象，在获得初值之后，无法再有任何变动。一旦再给const对象指定新值，就会产生==编译错误==。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;被定义为const的对象，在获得初值之后，无法再有任何变动。一旦再给const对象指定新值，就会产生***编译错误***。
 
 >#### 条件运算符（三目运算符）
 ```
