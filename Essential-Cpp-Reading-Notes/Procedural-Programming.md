@@ -22,7 +22,7 @@ void ChangeValue(int & value)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.** **希望得以直接对传入的对象进行修改**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.** **降低复制大型对象的额外负担** 
 
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;但是在传递==内置类型==的时候，建议==不要==使用传址的方式。
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;但是在传递***内置类型***的时候，建议***不要***使用传址的方式。
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传址机制主要用于传递`class object`
 
 >#### 作用域及范围
