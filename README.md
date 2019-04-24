@@ -1,1 +1,1 @@
-# Essential C++ Reading Notes
+# Reading notes for yscal
