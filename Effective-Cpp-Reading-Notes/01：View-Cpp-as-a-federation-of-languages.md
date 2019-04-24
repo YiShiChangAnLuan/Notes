@@ -1,0 +1,14 @@
+### 将C++视为一个由相关语言组成的联邦而非单一的语言
+---
+#### C++包含四个次要语言
+1. **C**&nbsp;&nbsp;&nbsp;&nbsp;C++仍是以C为基础。区块（blocks）、语句（statements）、预处理器（preprocessor）、内置数据类型（built-in data types）、数组（arrays）、指针（pointers）。但是C语言没有模板（templates）、异常（exceptions）、重载（overloading）……
+2. **Object-Oriented C++** &nbsp;&nbsp;&nbsp;&nbsp;classes（包括构造函数和析构函数），封装（encapsulation）、继承（inheritance）、多态（polymorphism）、virtual函数（动态绑定）……
+3. **Template C++**&nbsp;&nbsp;&nbsp;&nbsp;C++的泛型编程
+4. **STL**&nbsp;&nbsp;&nbsp;&nbsp;STL是个template库。对容器（containers）、迭代器（iterators）、算法（algorithms）以及函数对象（function objects）的规约有极佳的紧密配合与协调。  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对内置类型来说`pass-by-value`通常比`pass-by-reference`高效  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对内置类型来说对用户自定义构造函数和析构函数，`pass-by-reference-to-const`更好
+
+
+###### REMEMBER
+- ==C++高效编程守则视状况而变化，取决于使用C++哪部分==
