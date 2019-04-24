@@ -1,4 +1,4 @@
-《Essential C++》Reading Notes
+《Essential C++》 Reading Notes
 ---
 
 1. #### [关于《Essential C++》一点点想说的话](关于《Essential-Cpp》一点点想说的话.md)
