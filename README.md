@@ -1,1 +1,1 @@
-# Reading notes for yscal
+# Reading Notes for Yscal
