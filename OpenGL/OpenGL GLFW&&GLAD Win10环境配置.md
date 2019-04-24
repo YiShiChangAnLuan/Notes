@@ -36,7 +36,7 @@ GLAD
 - 并添加glad.c文件到工程中  
 ![picture 11](https://github.com/YiShiChangAnLuan/images/blob/master/OpenGL%20GLFW%26%26GLAD%20Win10%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/11.png) 
 
-随便找个[代码]()试试看不能跑  
+随便找个[代码](https://learnopengl.com/code_viewer_gh.php?code=src/1.getting_started/1.2.hello_window_clear/hello_window_clear.cpp)试试看不能跑  
 ![picture 12](https://github.com/YiShiChangAnLuan/images/blob/master/OpenGL%20GLFW%26%26GLAD%20Win10%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/12.png)
 
 
