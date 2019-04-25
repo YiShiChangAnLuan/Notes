@@ -114,7 +114,7 @@ if (flag == 0 || flag == 1)
 vector<TypeName> VecName (ArrayName, ArrayName + ArrayNameSize);
 ```
 
-## Pinters Allow for Flexibility
+## Pointers Allow for Flexibility
 
 >#### & 取址运算符
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;希望取得对象所在的内存地址而非对象的值
